@@ -1,0 +1,36 @@
+1580368859229	Delete element
+1580370419269	Rename package 'com.project.vo'
+1580371308641	Delete elements
+1580371321040	Delete elements
+1580371328181	Delete elements
+1580371346812	Delete elements
+1580371364011	Delete elements
+1580371779822	Delete elements
+1580371836137	Rename package 'com.demo'
+1580373236543	Move 13 resources to 'admin'
+1580373274885	Copy files
+1580382487669	Rename resource 'login.jsp'
+1580382493690	Rename resource 'register.jsp'
+1580382665484	Move 'login.jsp' to 'view'
+1580382675186	Move 'register.jsp' to 'view'
+1580386449406	Delete elements
+1580386461477	Move 'register1.jsp' to 'view'
+1580386469712	Move 'login1.jsp' to 'view'
+1580386483403	Rename resource 'login1.jsp'
+1580386491013	Rename resource 'register1.jsp'
+1580386688301	Move 4 resources to 'adminResorces'
+1580389389579	Delete element
+1580392202685	Copy file
+1580392229826	Copy files
+1580438844204	Delete element
+1580438847571	Delete element
+1580438850747	Delete element
+1580438858165	Delete element
+1580455635366	Delete elements
+1580455768287	Rename resource 'orderlist.jsp'
+1580460423212	Rename resource 'index.jsp'
+1580471203154	Rename type 'cartVO'
+1580479344321	Rename type 'UserDAO'
+1580479352743	Rename type 'UserDAOImp'
+1580479551310	Rename type 'cartController'
+1580481521306	Rename type 'userCategoryController'

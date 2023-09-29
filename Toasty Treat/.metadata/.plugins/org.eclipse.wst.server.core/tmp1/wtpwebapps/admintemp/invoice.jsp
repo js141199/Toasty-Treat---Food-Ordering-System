@@ -1,0 +1,45 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>The Toasty Treat Bill</title>
+</head>
+<body>
+
+
+	<div>
+
+		<div style="text-align: center;">
+			<img height="100px" width="100px"
+				src="https://alpesh1234321.s3.amazonaws.com/logo+(1).jpg">
+		</div>
+		<pre>
+		<div>
+		<strong style="font-size: 20px">Name : </strong><span
+					style="font-size: 20px; font-weight: bold;">Jeet Shah</span>
+		</div>
+		</pre>
+		<div style="text-align: -webkit-center;">
+			<table style="font-size: 20px; width: 75%; text-align: center;">
+				<tr>
+					<td>No</td>
+					<td>Product Name</td>
+					<td>Unit Price</td>
+					<td>Quantity</td>
+					<td>Total</td>
+
+				</tr>
+					[data]
+			</table>
+		</div>
+
+		<pre>
+		<div>
+																				<strong style="font-size: 20px">Price : </strong>
+
+	</div>
+	</pre>
+</body>
+</html>
